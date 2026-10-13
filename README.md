@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Ankit Sharma CSE student at Madan Mohan Malviya University of Technology.<br>Currently Learning Backend and DSA Topics.<br>Practicing DSA and CP. Solved 400+ Questions of DSA and CP combined on different platform.<br>
+I am Ankit Sharma CSE student at Madan Mohan Malviya University of Technology.<br>Currently Learning Backend and DSA Topics.<br>Practicing DSA and CP. Solved 900+ Questions of DSA and CP combined on different platform.<br>
 
 
 ## 🌐 Socials:
